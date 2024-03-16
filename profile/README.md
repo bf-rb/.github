@@ -8,5 +8,12 @@
 Welcome to the **Ruby Bit Forge Team**, a group of developers dedicated to mastering the art of **Ruby** programming.
 
 ---
+
 ![urk-logo]
 Ласкаво просимо до **Ruby Bit Forge Team**, групи розробників, які прагнуть опанувати мистецтво програмування **Ruby**.
+
+---
+
+[ruby-gems]: https://img.shields.io/badge/RubyGems-e9573f.svg?style=for-the-badge&logo=rubygems&logoColor=fff&cacheSeconds=3600
+
+[![ruby-gems]](https://rubygems.org/profiles/bit-forge)
